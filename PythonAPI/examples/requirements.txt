@@ -1,0 +1,8 @@
+tensorflow
+cv2
+tqdm
+opencv
+keras
+future
+numpy
+pygame
