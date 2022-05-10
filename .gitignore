@@ -49,3 +49,6 @@ profiler.csv
 /HDMaps/
 /Engine/
 /CarlaUE4/
+/PythonAPI/examples/models/
+*.idea/
+.idea
