@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2de304f-5326-40c6-baf2-a68d6f2a87ad" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CARLA_0.9.5.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/CARLA_0.9.5.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PythonAPI/examples/ZMyCode.py" beforeDir="false" afterPath="$PROJECT_DIR$/PythonAPI/examples/ZMyCode.py" afterDir="false" />
-    </list>
+    <list default="true" id="e2de304f-5326-40c6-baf2-a68d6f2a87ad" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +118,7 @@
       <workItem from="1652110803993" duration="3440000" />
       <workItem from="1652120235343" duration="626000" />
       <workItem from="1652121184802" duration="3922000" />
-      <workItem from="1652125220739" duration="19853000" />
+      <workItem from="1652125220739" duration="20573000" />
     </task>
     <servers />
   </component>
